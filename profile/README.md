@@ -7,6 +7,7 @@
 [![React](https://a11ybadges.com/badge?logo=react)](https://react.dev/)
 [![Golang](https://a11ybadges.com/badge?logo=go)](https://go.dev/)
 [![Terraform](https://a11ybadges.com/badge?logo=terraform)](https://www.terraform.io/)
+[![Kubernetes](https://a11ybadges.com/badge?logo=kubernetes)](https://kubernetes.io/)
 
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
 
