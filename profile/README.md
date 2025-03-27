@@ -19,7 +19,17 @@ Smarter gives prompt engineering teams an intuitive workbench approach to design
 
 Smarter is LLM provider-agnostic, and provides seamless integrations to a continuously evolving list of value added services for security management, prompt content moderation, audit, cost accounting, and workflow management. It can be used as a pay-as-you-go, platform as a service, or, installed in your own AWS cloud account and supported by Querium's professional services team. It can also be installed on-premise in a hybrid model.
 
-Smarter is cost effective when running at scale. It is extensible and architected on the philosophy of a compact core that does not require customization nor forking. It is horizontally scalable. It is natively multi-tenant, and can be installed alongside your existing systems. The principal technologies in the Smarter platform stack include:
+Smarter is cost effective when running at scale. It is extensible and architected on the philosophy of a compact core that does not require customization nor forking. It is horizontally scalable. It is natively multi-tenant, and can be installed alongside your existing systems.
+
+## Designed by and for prompt engineers
+
+Smarter provides design teams with a web console, and a convenient yaml manifest-based command-line interface for Windows, macOS, and Linux.
+
+![Smarter Stack](https://cdn.platform.smarter.sh/github.com/smarter-sh/stack.png?)
+
+### Principal Technologies
+
+The principal technologies in the Smarter platform stack include:
 
 - Ubuntu Linux
 - Docker/Kubernetes/Helm
@@ -33,12 +43,6 @@ Smarter is cost effective when running at scale. It is extensible and architecte
 - ReactJS/Bootstrap
 - Go lang
 - GitHub Actions
-
-## Designed by and for prompt engineers
-
-Smarter provides design teams with a web console, and a convenient yaml manifest-based command-line interface for Windows, macOS, and Linux.
-
-![Smarter Stack](https://cdn.platform.smarter.sh/github.com/smarter-sh/stack.png?)
 
 ### Plugin Architecture
 
