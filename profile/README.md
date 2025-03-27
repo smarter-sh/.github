@@ -25,7 +25,7 @@ Smarter is cost effective when running at scale. It is extensible and architecte
 
 Smarter provides design teams with a web console, and a convenient yaml manifest-based command-line interface for Windows, macOS, and Linux.
 
-![Smarter Stack](https://cdn.platform.smarter.sh/github.com/smarter-sh/stack.png?)
+![Smarter Stack](https://cdn.platform.smarter.sh/github.com/smarter-sh/stack.png?cache-buster=123)
 
 ### Principal Technologies
 
