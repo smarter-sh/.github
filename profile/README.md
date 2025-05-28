@@ -11,11 +11,11 @@
 
 [![hack.d Lawrence McDaniel](https://img.shields.io/badge/hack.d-Lawrence%20McDaniel-orange.svg)](https://lawrencemcdaniel.com)
 
-**Smarter is an enterprise-class platform for designing and managing chat solutions. Think of Smarter as the 'Redhat Linux' of chat.**
+**Smarter is an enterprise-class platform for designing and managing AI resources. Think of Smarter as the 'Redhat Linux' of generative AI.**
 
 Info: [Kent Fuka](mailto:kent@querium.com)
 
-Smarter gives prompt engineering teams an intuitive workbench approach to designing, prototyping, testing, deploying and managing powerful chat solutions for common corporate use cases including customer sales support, vendor/supplier management, human resources, and more. Smarter is compatible with a wide variety of chatbot UI front ends for technology ecosystems such as NPM, Wordpress, Squarespace, Drupal, Office 365, Sharepoint, .Net, Netsuite, salesforce.com, and SAP. It is developed to support prompt engineering teams working in large organizations. Accordindly, Smarter provides common enterprise features such as security, accounting cost codes, and audit capabilities.
+Smarter gives prompt engineering teams an intuitive workbench approach to designing, prototyping, testing, deploying and managing powerful AI resources for common corporate use cases including customer sales support, vendor/supplier management, human resources, and more. Smarter is compatible with a wide variety of front end tools for technology ecosystems including NPM, Wordpress, Squarespace, Drupal, Office 365, Sharepoint, .Net, Netsuite, salesforce.com, and SAP. It is developed to support prompt engineering teams working in large organizations. Accordindly, Smarter provides common enterprise features such as security, accounting cost codes, and audit capabilities.
 
 Smarter is LLM provider-agnostic, and provides seamless integrations to a continuously evolving list of value added services for security management, prompt content moderation, audit, cost accounting, and workflow management. It can be used as a pay-as-you-go, platform as a service, or, installed in your own AWS cloud account and supported by Querium's professional services team. It can also be installed on-premise in a hybrid model.
 
